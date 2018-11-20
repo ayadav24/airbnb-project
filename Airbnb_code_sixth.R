@@ -1,11 +1,3 @@
-### Group 2 ###
-#Anurag Sinhal - 660855717
-#Dikshant Gupta - 675267860
-#Nikita Maloo - 672689394
-#Priya Panchaksharappa - 667028888
-#Lavanya Santhanakrishnan - 662238731
-#Twinkle Singh - 678538961
-
 ### Airbnb Dataset of NewYork City ###
 
 install.packages("dplyr")
